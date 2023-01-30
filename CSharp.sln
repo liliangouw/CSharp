@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33103.184
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "refout", "refout\refout.csproj", "{B0C7C4C3-9921-4C1E-B9AE-A364098DFB8B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionTrees", "ExpressionTrees\ExpressionTrees.csproj", "{18DAF427-17FB-4F78-86B8-C19ACC283890}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B0C7C4C3-9921-4C1E-B9AE-A364098DFB8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0C7C4C3-9921-4C1E-B9AE-A364098DFB8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0C7C4C3-9921-4C1E-B9AE-A364098DFB8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18DAF427-17FB-4F78-86B8-C19ACC283890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18DAF427-17FB-4F78-86B8-C19ACC283890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18DAF427-17FB-4F78-86B8-C19ACC283890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18DAF427-17FB-4F78-86B8-C19ACC283890}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
